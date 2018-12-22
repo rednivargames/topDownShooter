@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scanes/ScnGame.unity
+  isLoaded: 1
+  isActive: 1
